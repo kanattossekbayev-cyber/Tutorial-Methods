@@ -1,0 +1,4 @@
+"sentiment_group","n","perc","mean_score","median_score","min_score","max_score"
+"Negative",8420,18.923474547702,-2.95973871733967,-2,-34,-1
+"Neutral",11565,25.991684458928,0,0,0,0
+"Positive",24510,55.08484099337,6.16352509179927,4,1,50
